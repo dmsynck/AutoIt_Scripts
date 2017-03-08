@@ -1,2 +1,2 @@
-# Script_Samples
-A place to showcase some of my scripts
+# AutoIt_Scripts
+A place to showcase some of my AutoIt scripts
