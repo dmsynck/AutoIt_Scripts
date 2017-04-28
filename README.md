@@ -1,2 +1,2 @@
 # AutoIt_Scripts
-A place to showcase some of my AutoIt scripts
+A place to store / showcase my AutoIt scripts
